@@ -6,7 +6,7 @@
 
 I used three electrodes for my signal and connected them as shown in the image. The middle electrode should go exactly in the middle of your forehead. For more information on setting up your headband [take a look at this page](https://docs.openbci.com/AddOns/Headwear/HeadBand/).
 
-![Electrode_placement](Electrodes.jpg)
+![Electrode_placement](images/Electrodes.jpg)
 
 
 ### Ganglion board setup
@@ -17,11 +17,11 @@ For a more in-depth tutorial, see [the OpenBCI Getting Started](https://docs.ope
 - **Orange:** These are the reference electrodes that you clip on both ears (again, see [the headset setup](https://docs.openbci.com/AddOns/Headwear/HeadBand/))
 - **Red:** Make sure to have the pins in this position, I highlighted with three small red squares. See [the Ganglion Hardware Guide](https://docs.openbci.com/Ganglion/GanglionSpecs/#inverting-input-select-switches) to learn what is does.
 
-![Ganglion_board_setup](Ganglion_connection.jpg)
+![Ganglion_board_setup](images/Ganglion_connection.jpg)
 
 ## Start OpenBCI to LSL stream
 
-![steps_in_obci](obci_setup.png)
+![steps_in_obci](images/obci_setup.png)
 
 1. Press the green button `Start Data Stream`. The button will turn red and you'll see that the graphs start moving.
 2. Select `Networking` from the dropdown list.
